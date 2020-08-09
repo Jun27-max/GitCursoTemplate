@@ -1,1 +1,12 @@
-Este é uma arquivo teste...
+<<<<<<< HEAD
+dsopdfg dfoiugjdfogjidf
+=======
+File1
+file
+
+File2
+file
+
+File 3
+file
+>>>>>>> develop
